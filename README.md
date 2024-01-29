@@ -15,9 +15,9 @@
   [*community health files*](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file)
   are maintained here:
   
-  * 🧰 [**Issue Templates**](.github/ISSUE_TEMPLATE) for reporting a `bug` 🐛 and for requiesting a *new feature* ⚙️ is added.
-  * 🔩 [**PULL Request Template**](.github/PULL_REQUEST_TEMPLATE.md) is a simple representation to open a pull request
-  in any of the projects associated in this organization.
+  * ~🧰 [**Issue Templates**](.github/ISSUE_TEMPLATE) for reporting a `bug` 🐛 and for requiesting a *new feature* ⚙️ is added.~ (TODO)
+  * ~🔩 [**PULL Request Template**](.github/PULL_REQUEST_TEMPLATE.md) is a simple representation to open a pull request
+  in any of the projects associated in this organization.~ (TODO)
   * 🖨️ [**CODE of CONDUCT**](.github/CODE_OF_CONDUCT.md) adheres to [Contributor Convent](https://www.contributor-covenant.org/)
   that lists the code of conduct for all the open source projects in this organization. :link
 
